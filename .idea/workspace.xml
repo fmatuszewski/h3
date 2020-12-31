@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e5ce25f3-52d3-41c8-a2cf-6b6d9926a8eb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ios/h3" />
+  </component>
+  <component name="ProjectId" id="1mO3EISLzEbs8N8jvaWOkHUR047" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
+      <recent name="$PROJECT_DIR$/example/test" />
+      <recent name="$PROJECT_DIR$/ios" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5ce25f3-52d3-41c8-a2cf-6b6d9926a8eb" name="Default Changelist" comment="" />
+      <created>1609350696986</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609350696986</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2582" y="344" width="586" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609350918288">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2582" y="344" width="586" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1609350918288" />
+    <state x="2099" y="261" width="1643" height="589" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1609354430434">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2099" y="261" width="1643" height="589" key="com.android.tools.idea.avdmanager.AvdListDialog/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1609354430434" />
+    <state x="2574" y="383" key="com.intellij.ide.util.TipDialog" timestamp="1609354629307">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2574" y="383" key="com.intellij.ide.util.TipDialog/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1609354629307" />
+    <state x="580" y="265" width="826" height="576" key="find.popup" timestamp="1609428389132">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="2452" y="244" width="855" height="590" key="find.popup/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1609351859577" />
+    <state x="580" y="265" width="826" height="576" key="find.popup/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1609428389132" />
+    <state width="300" height="36" key="javadoc.popup.new" timestamp="1609359149466">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="300" height="36" key="javadoc.popup.new/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1609359149466" />
+  </component>
+</project>

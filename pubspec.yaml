@@ -1,0 +1,25 @@
+name: h3
+description: A new flutter plugin project.
+version: 0.0.1
+author:
+homepage:
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+
+dependencies:
+  collection: ^1.14.11
+  ffi: ^0.1.3
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  test: any
+  build_runner:
+  build_test:
+
+
+flutter:
+  plugin:
+    androidPackage: com.leavetrail.h3

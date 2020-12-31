@@ -1,0 +1,3 @@
+/home/user/AndroidStudioProjects/h3/ios/lib/CMakeFiles/rebuild_cache.dir
+/home/user/AndroidStudioProjects/h3/ios/lib/CMakeFiles/edit_cache.dir
+/home/user/AndroidStudioProjects/h3/ios/lib/CMakeFiles/h3.dir

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/user/AndroidStudioProjects/h3/ios/dart_shim.cc
+dart_shim.h
+/home/user/AndroidStudioProjects/h3/ios/dart_shim.h
+
+/home/user/AndroidStudioProjects/h3/ios/dart_shim.h
+iostream
+-
+memory
+-
+h3/src/h3lib/include/h3api.h
+/home/user/AndroidStudioProjects/h3/ios/h3/src/h3lib/include/h3api.h
+
+/home/user/AndroidStudioProjects/h3/ios/h3/src/h3lib/include/h3api.h
+stdint.h
+-
+stdlib.h
+-
+
